@@ -2,6 +2,8 @@
 
 This is a simple react todo app built with React and firebase.
 
+See Live: https://taufikur-rahman.com/projects/todo
+
 ## Instructions
 
 First clone this repository.
@@ -10,9 +12,9 @@ First clone this repository.
 $ git clone https://github.com/taufi-bd/todo.git
 ```
 
-Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
-
 Put your firebase authentication info on firebase_config.js located in the root folder
+
+Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
 ```bash
 $ npm install # or yarn
