@@ -1,6 +1,6 @@
 # A Simple React Todo App
 
-This is a simple react todo app built with React and firebase.
+This is a simple todo app built with React and firebase.
 
 See Live: https://taufikur-rahman.com/projects/todo
 
